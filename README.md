@@ -1,7 +1,7 @@
 # Coffee_Atlas
 A laboratory activity for Programming Logic and Design. This is designed after the required dictionary activity. This was done by Angelo A. Loresco, 12-CPE-01.
 
-Coffee Atlas is a program conatining a coffee species list. When a coffee species is inputted, the corresponding information will be shown. 
+Coffee Atlas is a program containing a coffee species list. When a coffee species is inputted, the corresponding information will be shown. 
 If the first input is not in the list, the program will request another input. If the input was declined again, the program will close.
 
 Details on how the program was created can be accessed here:
